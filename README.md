@@ -26,7 +26,7 @@ To run the application locally, follow these steps:
 
 ## Demo Video
 
-For a detailed explanation and walkthrough of the News App React Application, please check out the demo video [here](https://your-video-link).
+For a detailed explanation and walkthrough of the News App React Application, please check out the demo video [here](https://drive.google.com/file/d/1P3kM-MczkGiOk-nXDXEE5J1oyT1Jlrky/view?usp=sharing).
 
 ## Technologies Used
 
