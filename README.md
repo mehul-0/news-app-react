@@ -37,7 +37,7 @@ For a detailed explanation and walkthrough of the News App React Application, pl
 
 ## Contributors
 
-- Your Name (@Mehul Gidwani)
+- (@Mehul Gidwani)
 
 ## Issues and Contributions
 
